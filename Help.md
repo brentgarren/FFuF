@@ -1,5 +1,5 @@
 Fuzz Faster U Fool - v1.3.0-dev
-
+<pre>
 HTTP OPTIONS:
   -H                  Header `"Name: Value"`, separated by colon. Multiple -H flags are accepted.
   -X                  HTTP method to use
@@ -37,3 +37,4 @@ MATCHER OPTIONS:
   -ml                 Match amount of lines in response
   -mr                 Match regexp
   -ms                 Match H
+</pre>
